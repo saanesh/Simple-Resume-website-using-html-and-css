@@ -1,0 +1,123 @@
+.contact
+{
+  
+   margin-left: 50px;
+    color: aliceblue;
+    size: 22px;
+    margin: 0px;
+    padding: 0px;
+    height: 350px;
+    width: 500px;
+padding-left: 500px;
+padding-bottom: 50px;
+}
+.right {
+
+    display: flex;
+    color: aliceblue;
+    padding: 50px;
+    position: absolute;
+    top: 150px;
+   padding-left: 500px;
+    height: 350px;
+    width: 500px;
+    margin-top: 700px;
+    
+    
+}
+.right h3 {
+size: 22px;
+    margin-right: 50px;
+    
+    
+}
+.mid
+{
+    
+    display: block;
+    width: 1000px;
+    padding-left: 500px;
+    margin: 10px auto;
+border:10 px solid green;
+
+
+
+}
+.navbar{
+    display: inline-block;
+     
+}
+.navbar li{
+
+    display: inline-block;
+    font-size: 22px;
+}
+.navbar li a{
+color: white;
+text-decoration: none;
+padding: 32px 35px;
+
+}
+.navbar li a:hover, .navbar li a.active{
+    text-decoration: underline;
+    color: rgb(246, 164, 164);
+    }
+    form{
+        margin-left: 680px;
+        padding-left: 80px;
+        
+        display: inline-block;
+border: 2px solid white;
+border-radius: 100px;
+margin-top: 150px;
+padding: 50px;
+height: 500px;
+width: 300px;
+font-size: 50px;
+    }
+    form input{
+        
+background-color: black;
+        color:gray;
+        font-size: 20px;
+        border-radius: 20px;
+    }
+    form input :hover
+    {
+        
+text-decoration: underline;
+    }
+    form h5
+    {
+        color: white;
+        border: 2px solid white;
+        border-radius: 30px;
+        padding: 10px;
+        font-size: 30px;
+    
+    }
+    form :hover{
+        
+
+  }
+  h6{
+    font-size: 30px;
+    height: auto;
+    margin-left: 400px;
+    width: 800px;
+    color: white;
+
+  }
+  .hello h3{
+    padding-left: 350px;
+    margin-top: 50px;
+    font-size: 30px;
+    height: auto;
+    
+    margin-left: 400px;
+    width: 200px;
+    color: white;
+text-decoration: underline;
+    
+  }
+   
